@@ -1,0 +1,6 @@
+[submodule "TranscribeApp"]
+	path = TranscribeApp
+	url = git@github.com:rinkaaan/TranscribeApp.git
+[submodule "TranscribeApi"]
+	path = TranscribeApi
+	url = git@github.com:rinkaaan/TranscribeApi.git
